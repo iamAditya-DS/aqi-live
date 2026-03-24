@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1114" height="731" alt="image" src="https://github.com/user-attachments/assets/f48a94d2-5ceb-416a-b0fa-eaca7f1c1518" /><div align="center">
 
 # 🌿 AQI Live
 
@@ -20,6 +20,7 @@
 ## 📸 Preview
 
 > *(Add a screenshot of your app here — drag and drop an image into this file on GitHub)*
+<img width="1114" height="731" alt="Screenshot 2026-03-24 171927" src="https://github.com/user-attachments/assets/70759374-1949-4906-a64c-af0202c5bc1b" />
 
 ---
 
