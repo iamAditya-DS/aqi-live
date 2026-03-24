@@ -117,5 +117,5 @@ MIT — free to use, modify and distribute.
 ---
 
 <div align="center">
-Made with 💚 by <a href="https://github.com/iamAditya-DS">Aditya</a>
+Made by <a href="https://github.com/iamAditya-DS">Aditya</a>
 </div>
