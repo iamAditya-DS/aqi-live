@@ -16,9 +16,8 @@
 ---
 
 ## 📸 Preview
-
-> *(Add a screenshot of your app here — drag and drop an image into this file on GitHub)*
-<img width="1114" height="731" alt="Screenshot 2026-03-24 171927" src="https://github.com/user-attachments/assets/70759374-1949-4906-a64c-af0202c5bc1b" />
+<img width="711" height="705" alt="image" src="https://github.com/user-attachments/assets/8d69b607-1b1e-4d9e-bb6d-c4f148766dbc" />
+<img width="690" height="574" alt="image" src="https://github.com/user-attachments/assets/87490f6e-fda8-4ccf-a382-8fa9400665fd" />
 
 ---
 
