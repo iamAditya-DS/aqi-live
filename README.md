@@ -1,5 +1,3 @@
-<img width="1114" height="731" alt="image" src="https://github.com/user-attachments/assets/f48a94d2-5ceb-416a-b0fa-eaca7f1c1518" /><div align="center">
-
 # 🌿 AQI Live
 
 ### Real-time Air Quality Index Monitor
