@@ -11,7 +11,7 @@
 
 **Search any city worldwide and get live air quality data — instantly.**
 
-[🚀 Live Demo](#) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
+[🚀 Live Demo](https://aqi-live-seven.vercel.app/) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
 
 </div>
 
