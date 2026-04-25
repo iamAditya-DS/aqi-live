@@ -36,7 +36,7 @@
 
 - **Frontend** — React 18 + Vite, Recharts, React-Leaflet
 - **Backend** — Node.js + Express 5
-- **Data** — OpenWeatherMap Air Pollution API
+- **Data** — World's Air Pollution: Real-time AQI
 - **Maps** — Leaflet + OpenStreetMap
 
 ---
